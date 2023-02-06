@@ -1,3 +1,7 @@
 Apple Pie
 Orange
 Grapes
+Gold
+Silver
+Platinium
+Tree
